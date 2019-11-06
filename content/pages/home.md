@@ -1,30 +1,46 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: 'Population2 '
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: "We’re A Digital Design and Web Security Consultancy.\r\n\nWe help our clients to understand the root issues of their technology needs, and plan for long-term solutions which are cutting-edge, sustainable, and cost effective.\r\n\nThere is no better way to understand the benefits of a new technology than actually testing it. We research, build and deliver functional versions of technology you can use immediately to measure ROI."
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: >-
+    Whether you want to transform your business, advance your career, or simply
+    find out more about what we’re doing, this is the place. Use the fields
+    below and we’ll get your questions to the right person.
+  title: 'Web Consulting & IT Services | Austin, Texas'
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+## IT Consulting
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Stop struggling and wasting time and money figuring things out on your own - take advantage of our experts experience. Go ahead - pick our brains!
 
-# Features
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
 
-## Get started
+## Modern DevOps
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+DevOps is destination. A set of core values and a collaborative mindset that combined with optimized processes and modern toolchains can transform.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+
+
+## SEO and Social Media
+
+We optimize your website and Social Media efforts for search engines to ensure you rank as high as possible when people search for you.
+
+
+
+## Java / Spring / JAM
+
+We’ll build and host your website on a secure, highly stable, blazing fast platform and even provide ongoing management and updates so you don’t need to worry about geeky tech stuff.
+
+
+
+## Web and App Development
+
+We create amazing and affordable web applications that don’t just look beautiful - they compel your website visitors to take action and drive sales and ROI.
+
+
+
+## Information and Web Security
+
+Let Us Prove Prevention Is Possible. Our industry-leading experts secure client systems with a prevention-first methodology and AI driven technology.
